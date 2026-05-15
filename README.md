@@ -154,4 +154,4 @@ flutter run
 - The `main_final3.dart` file in the root contains the complete single-file version
 - The `lib/` folder contains the properly organized multi-file version
 - Both are identical in functionality
-- `firebase_options.dart` is gitignored — each developer runs `flutterfire configure`
+- `firebase_options.dart` is gitignored — each developer runs `flutterfire configure` after cloning, run flutterfire configure to generate firebase_options.dart with your own Firebase project.
